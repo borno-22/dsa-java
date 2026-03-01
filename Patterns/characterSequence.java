@@ -14,7 +14,5 @@ public class characterSequence {
             }
             System.out.println();
         }
-
     }
-
 }
